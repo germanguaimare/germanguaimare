@@ -3,7 +3,7 @@
 
 - 🌱 Every day I’m working on perfecting my skills in **HTML5, CSS3, Bootstrap, JavaScript, React, Node.js, Python, Flask and RESTful API's.**
 
-- 📫 You can reach my at **germanguaimare@gmail.com**
+- 📫 You can reach me at **germanguaimare@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
